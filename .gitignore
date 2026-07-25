@@ -1,0 +1,20 @@
+# Python / Django
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+*.log
+local_settings.py
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.env
+.env.local
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

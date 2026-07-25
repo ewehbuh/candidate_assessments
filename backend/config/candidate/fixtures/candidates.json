@@ -1,0 +1,142 @@
+[
+  {
+    "model": "candidate.candidate",
+    "pk": 1,
+    "fields": {
+      "name": "Alice Johnson",
+      "years_exp": 5,
+      "status": "pending",
+      "date_applied": "2026-01-15T10:30:00Z",
+      "reviewed": false,
+      "description": "Full-stack developer with React and Django experience. Strong in REST APIs and frontend performance.",
+      "created": "2026-01-14T10:30:00Z",
+      "updated": "2026-01-14T10:30:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 2,
+    "fields": {
+      "name": "Bob Smith",
+      "years_exp": 3,
+      "status": "accepted",
+      "date_applied": "2026-01-10T09:15:00Z",
+      "reviewed": true,
+      "description": "Backend specialist, strong in Python and databases. Experience with PostgreSQL and MongoDB.",
+      "created": "2026-01-09T09:15:00Z",
+      "updated": "2026-01-11T14:20:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 3,
+    "fields": {
+      "name": "Charlie Davis",
+      "years_exp": 10,
+      "status": "rejected",
+      "date_applied": "2025-12-20T08:00:00Z",
+      "reviewed": true,
+      "description": "Senior full-stack engineer, 10+ years, proficient in Java, Spring Boot, and React.",
+      "created": "2025-12-19T08:00:00Z",
+      "updated": "2025-12-22T16:45:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 4,
+    "fields": {
+      "name": "Diana Martinez",
+      "years_exp": 7,
+      "status": "pending",
+      "date_applied": "2026-01-12T14:00:00Z",
+      "reviewed": false,
+      "description": "Data engineer with experience in ETL pipelines, Python, and cloud platforms (AWS).",
+      "created": "2026-01-11T14:00:00Z",
+      "updated": "2026-01-11T14:00:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 5,
+    "fields": {
+      "name": "Ethan Williams",
+      "years_exp": 2,
+      "status": "accepted",
+      "date_applied": "2026-01-18T11:30:00Z",
+      "reviewed": true,
+      "description": "Junior developer with a strong foundation in JavaScript, React, and Node.js. Quick learner.",
+      "created": "2026-01-17T11:30:00Z",
+      "updated": "2026-01-19T09:10:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 6,
+    "fields": {
+      "name": "Fiona Chen",
+      "years_exp": 15,
+      "status": "pending",
+      "date_applied": "2026-01-05T12:00:00Z",
+      "reviewed": false,
+      "description": "Lead architect with extensive experience in cloud-native applications, microservices, and Kubernetes.",
+      "created": "2026-01-04T12:00:00Z",
+      "updated": "2026-01-04T12:00:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 7,
+    "fields": {
+      "name": "George Al-Fayed",
+      "years_exp": 8,
+      "status": "rejected",
+      "date_applied": "2025-12-28T13:45:00Z",
+      "reviewed": true,
+      "description": "Mobile developer with 8 years in iOS and Android, Swift, Kotlin, and Flutter.",
+      "created": "2025-12-27T13:45:00Z",
+      "updated": "2025-12-30T08:20:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 8,
+    "fields": {
+      "name": "Hannah Kim",
+      "years_exp": 4,
+      "status": "pending",
+      "date_applied": "2026-01-20T16:00:00Z",
+      "reviewed": false,
+      "description": "DevOps engineer with skills in CI/CD pipelines, Terraform, Docker, and AWS.",
+      "created": "2026-01-19T16:00:00Z",
+      "updated": "2026-01-19T16:00:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 9,
+    "fields": {
+      "name": "Ivan Petrov",
+      "years_exp": 12,
+      "status": "accepted",
+      "date_applied": "2026-01-08T10:00:00Z",
+      "reviewed": true,
+      "description": "Senior backend developer with expertise in Python, Django, and distributed systems.",
+      "created": "2026-01-07T10:00:00Z",
+      "updated": "2026-01-10T17:30:00Z"
+    }
+  },
+  {
+    "model": "candidate.candidate",
+    "pk": 10,
+    "fields": {
+      "name": "Jessica Wang",
+      "years_exp": 20,
+      "status": "pending",
+      "date_applied": "2026-01-02T09:30:00Z",
+      "reviewed": false,
+      "description": "VP of Engineering with 20+ years in leadership, software architecture, and agile transformation.",
+      "created": "2026-01-01T09:30:00Z",
+      "updated": "2026-01-01T09:30:00Z"
+    }
+  }
+]
