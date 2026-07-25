@@ -31,7 +31,7 @@ A full-stack web application for managing job candidates. Built with **Django RE
 
 ```bash
 git clone https://github.com/ewehbuh/candidate_assessments.git
-cd candidate-assessment
+cd candidate_assessments
 ```
 
 ### 2. Backend (Django)
@@ -86,8 +86,6 @@ python manage.py test candidate --verbosity=2 -s
 ```
 
 ### Frontend
-
-Frontend tests are not required for this assessment, but you can add them later.
 
 ---
 
