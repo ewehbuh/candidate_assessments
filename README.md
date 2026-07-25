@@ -1,35 +1,4 @@
 
-# Candidate Assessment Project
-
-A full-stack web application for managing job candidates. Built with **Django REST Framework** (backend) and **Next.js + Redux Toolkit** (frontend).
-
----
-
-## 🚀 Features
-
-- **List candidates** – Display all fields except `id`, `created`, `updated`
-- **Sort candidates** – Sort by `status`, `date_applied`, and `years_exp` (server-side)
-- **Filter candidates** – Filter by years of experience range (e.g., 5–10 years)
-- **Update status** – Accept or Reject pending candidates; once Accepted/Rejected, status cannot be changed
-- **Add candidate** – Create new candidates via a modal form with validation
-- **Automatic `reviewed` flag** – Set to `true` when a candidate moves from `pending` to `accepted`/`rejected`
-- **Comprehensive error handling** – Client-side validation + clear server-side error messages
-- **Responsive UI** – Built with Tailwind CSS
-- **Full TypeScript** – Frontend fully typed
-
----
-
-## 📦 Prerequisites
-
-- **Python 3.8+** and `pip`
-- **Node.js 18+** and `npm`
-- **Git** (optional)
-
----
-
-## 🛠️ Setup & Installation
-# Candidate Assessment Project
-
 A full-stack web application for managing job candidates. Built with **Django REST Framework** (backend) and **Next.js + Redux Toolkit** (frontend).
 
 ---
@@ -61,7 +30,7 @@ A full-stack web application for managing job candidates. Built with **Django RE
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ewehbuh/candidate_assessment.git
+git clone https://github.com/ewehbuh/candidate_assessments.git
 cd candidate-assessment
 ```
 
@@ -106,6 +75,7 @@ The frontend will run at **http://localhost:3000**.
 
 ```bash
 cd backend
+cd config
 python manage.py test candidate --verbosity=2
 ```
 
